@@ -3,4 +3,6 @@ h1{
     font-size: 3rem;
     color: blue;
     text-decoration: underline;
+    display: flex;
+    justify-content: center;
 }
